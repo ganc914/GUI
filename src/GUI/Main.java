@@ -27,9 +27,9 @@ public class Main {
         //Formato Default
         frame.getContentPane().setBackground(Color.pink);
         //Formato RGB
-        //frame.getContentPane().setBackground(new Color);
+        //frame.getContentPane().setBackground(new Color (255, 87, 51));
         //Formato HEXA
-        //frame.getContentPane().setBackground(new Color);
+        frame.getContentPane().setBackground(new Color(0xFF5733));
     }
     
 }
