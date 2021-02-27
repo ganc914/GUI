@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Alumno: Gustavo Alfredo Navarrete Cruz
+Matricula: 2022431
  */
 package GUI;
 
@@ -25,7 +24,7 @@ public class Main {
         
         frame.setResizable(true);
         //Formato Default
-        frame.getContentPane().setBackground(Color.pink);
+        //frame.getContentPane().setBackground(Color.pink);
         //Formato RGB
         //frame.getContentPane().setBackground(new Color (255, 87, 51));
         //Formato HEXA
